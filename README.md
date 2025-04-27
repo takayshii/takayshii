@@ -1,16 +1,43 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**takayshii/takayshii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я программист, специализируюсь на разработке **Telegram-ботов** и **веб-сайтов**.  
+Работаю на **английском языке**, создаю быстрые, надёжные и масштабируемые решения.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Навыки и технологии:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+---
+
+## 🚀 О чем мои проекты:
+
+- Разработка умных и эффективных **Telegram-ботов** для автоматизации задач.
+- Создание адаптивных **веб-сайтов** с современным дизайном.
+- Интеграция **Telegram API**, **платежных систем** и **внешних сервисов**.
+- Полная поддержка **англоязычных проектов**.
+
+---
+
+## 📈 GitHub Статистика:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takayshii&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=takayshii&layout=compact&theme=radical)
+
+---
+
+## 📨 Связь:
+
+- Telegram: @den1iis                                        
+- Email: den.aslyamov@inbox.ru
+
+---
+
+_Ставлю качество и результат на первое место. Готов к интересным проектам!_ 🚀
+
